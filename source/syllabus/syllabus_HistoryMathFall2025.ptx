@@ -654,7 +654,7 @@ groups.
   <section xml:id="sec-SLOS">
     <title>Student Learning Objectives</title>
     <paragraphs>
-      <title>Mathematics Program Learning Outcomes:</title>
+       <title>Mathematics Program Learning Outcomes</title> 
       <p>
         A Lewis University Mathematics Graduate will be able to:
         <ol>
@@ -687,6 +687,52 @@ groups.
         Of these, this course addresses program learning outcomes 3, 4, and 5 all at the  reinforced level. These student learning outcomes will be 
         demonstrated through projects, homework, and class activities.
       </p>
+    </paragraphs>
+
+        <paragraphs>
+
+     <title>Lewis University Baccalaureate Characteristics</title> 
+      <p>
+        A Lewis University undergraduate education is marked by the following characteristics:
+      </p>
+      <ol>
+          <li>
+            <p> <alert>Essential Skills: </alert>The baccalaureate graduate of Lewis University will read, write, speak, calculate, and use technology at a demonstrated level of proficiency.
+            </p>
+            </li>
+            <li>
+              <p>
+                <alert> Major Approaches to Knowledge: </alert>The baccalaureate graduate of Lewis University will understand the major approaches to knowledge.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert> Faith, Religion and Spirituality: </alert> The baccalaureate graduate of Lewis University will understand the place of faith, religion, and spirituality in the search for truth and meaning.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert>Moral and Ethical Decision-Making: </alert>The baccalaureate graduate of Lewis University will understand and prepare for moral and ethical decision-making.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert> Responsible Citizenship:</alert> The baccalaureate graduate of Lewis University will become an informed, involved, and responsible citizen of a diverse yet interconnected national and global community through a grounding in economic, political, social, and historical influences that are inherent in shaping, developing, and advancing nations and the world.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert> Critical Thinking: </alert>The baccalaureate graduate of Lewis University will think critically and creatively.
+              </p>
+            </li>
+            <li>
+              <p>
+                <alert> Lifelong Learning: </alert> The baccalaureate graduate of Lewis University will possess the knowledge, skills, and dispositions to enter or advance a career, or to begin graduate study.
+              </p>
+            </li>
+        </ol>
+
+      
       </paragraphs>
     </section>
   <!-- back matter -->
