@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <article xml:id="math330-syllabus">
+    <title>Fall 2025 Syllabus</title>
+    <subtitle>MATH  330 History of Mathematics </subtitle>
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <!-- Include chapters -->
+    <section xml:id="sec-course-info">
+      <title>Course Information</title>
+      <p>
+        <dl>
+          <li>
+            <title>Class Location and Meeting Times</title>
+            <p>
+             AS155<ndash/>A, W 5:00pm<ndash/>7:40pm
+            </p>
+          </li>
+          <li>
+            <title>Course Description</title>
+            <p>
+This course surveys the historical development of mathematics spanning from the pre-Greek period to modern times. Biographical information on mathematicians and historical analysis of each era are included, with an emphasis on famous results and theorems.
+
+            </p>
+          </li>
+          <li>
+            <title>Credits</title>
+            <p>
+              3
+            </p>
+          </li>
+          <li>
+            <title>Prerequisite</title>
+            <p>
+              Calculus 2
+            </p>
+          </li>
+          <li>
+            <title>Instructional modality</title>
+            <p>
+              In-person
+            </p>
+          </li>  
+        </dl>
+      </p>
+      <paragraphs>
+        <title>Learning Outcomes</title>
+        <p>
+          <ol>
+            <li>
+              <p>
+List and describe some of the “great” theorems of mathematics from the Babylonian period to modern time.              </p>
+            </li>
+            <li>
+              <p>
+               Apply the methods of inquiry and interpretation to a particular group of mathematicians from the Babylonian period to modern time.
+              </p>
+            </li>
+            <li>
+              <p>
+                Articulate why mathematics is a liberal art.
+              </p>
+            </li>
+            <li>
+              <p>
+                Gain exposure to the basics of program analysis (program correctness, recurrences, asymptotic analysis).
+              </p>
+            </li>
+            <li>
+              <p>
+Explain the evolution of some of the major concepts of modern mathematics.              </p>
+            </li>
+          </ol>
+        </p>
+      </paragraphs>
+     
+    </section>
+  <section xml:id="sec-materials">
+    <title>Textbook and Other Required Materials</title>
+    <p>
+      <dl>
+        <li>
+          <title>Textbook</title>
+          <p>
+            We will use the textbook <em> Math through the Ages: A Gentle History for Teachers and Others</em>
+             2nd edition, by William Berlinghoff and Fernando Gouvêa (ISBN 978-0-486-83284-5). 
+          </p>
+        </li>
+        <li>
+          <title>Learning Mangement System</title>
+          <p>
+Check the Blackboard website regularly (at least twice a week) during the semester for important information, announcements, and resources. It is also where you will find the course discussion board. Also, check your Lewis email account every day.  I will use email as my primary method of communication outside of office hours. Please do not message me through
+ blackboard messages.        
+  </p>
+        </li>
+        <li>
+          <title>Help</title>
+          <p>
+ Don't wait to get help. Visit me during my office hours, use the discussion forum in Blackboard, go to the Math Study Tables, find a study partner, get a tutor!          </p>
+        </li>
+        <li>
+          <title>Class Participation</title>
+          <p>
+This course is designed as an active-learning course since learning mathematics involves getting your hands dirty and digging in! You will be contributing to a student-centered learning community in which each student should feel comfortable sharing ideas and learning from mistakes. With this aim, it is important that we all commit to fostering an inclusive, respectful, and professional learning environment. 
+          </p>
+          <p>
+Learning collaboratively via carefully constructed activities will form a substantial part of the in-class experience. You will have the opportunity to present your reasoning to classmates and provide thoughtful feedback on the results of others. Asynchronous activities will include reading the text and/or watching video lectures connected to course content and completing assignments. 
+          </p>
+          <p>
+In-class participation is a key component of the course structure. At times, interactive lecture may be included to introduce some material, as well as for clarifying and synthesizing key ideas. Credit for participation will depend on preparation for class and your demonstrated level of engagement with class activities. Persistent tardiness and early departures will affect your participation credit. I understand that extenuating circumstances may arise, so you will have two “participation tokens” that you can use to excuse absences, no questions asked. If teamwork will be affected, please contact your team, and copy me, to make arrangements for your portion of the work.
+
+
+          </p>
+          <p>
+            Any posts containing comments (either positive or negative) about the instructors, the class, the students, or anything else, will be deleted. Unprofessional conduct may result in disciplinary action. 
+          </p>
+        </li>
+        <li>
+          <title>Canceled Class</title>
+          
+          
+          <p>
+
+In the event that class is unexpectedly canceled, there will likely be expectations for daily work.
+ It is your responsibility to check your email and Blackboard for notifications concerning class requirements for the day. 
+Please see the end of the syllabus for a statement on the possibility of work stoppage.
+
+          </p>
+        </li>
+        <li>
+          <title>Grading for Growth/Mastery-Based Testing:</title>
+          <p>
+            In addition to three take-home exams, this course will use a testing method called, 
+            "Grading for Growth Exams" or "Mastery-Based Testing.'' There will be four (4) paper-and-pencil, 
+            in-class Mastery Exams given periodically throughout the semester.  In mastery-based testing, 
+            students receive credit only when they display "mastery", but they receive multiple attempts to 
+            do so. The primary source of extra attempts comes from the fact that exam questions appear on
+             every subsequent test. In this Calculus III course, Exam 1 will have 5 questions. 
+             Exam 2 will have 10 questions -a remixed version of the five from Exam 1 and five new questions.
+              Exam 3 will have 15 questions- a remixed version of the ten from Exam 2 and five new questions.
+               Exam 4 will have 18 questions- a remixed version of the fifteen from Exam 3 and three new questions.  We will also have four testing weeks. During these weeks, students can sign up to retest concepts during (extended) office hours or during Study Tables hours. Students are allowed to test any concept, but cannot retest that concept the rest of the week. So for example, a student can test concepts 2,3 and 5 on Monday and concept 6 on Tuesday, but would not be able to test concept 5 again. These testing weeks are tentatively scheduled and noted in our course schedule. Our final testing week is during Finals Week.
+                   Students will be able to retest the new concepts from the last exam twice during 
+                   the final testing week.
+          </p>
+        </li>
+        <li>
+          <title>Grading of Exams </title>
+             
+          <p>
+          The objectives of this course can be broken down into 18 main concepts/problems. 
+           For each sort of problem on the exam, I identify three levels of performance: master level, 
+           journeyman level, and apprentice level. I will record how well the student does on each problem 
+           <!-- (an M for master level, a J for journeyman level, a 0 for apprentice level) on each exam. 
+           After the Final testing week, I will make a record of the highest level of performance the
+            student has made on each sort of problem or project and use this record to determine the 
+            student's total exam grade.  Each of the first 9 concepts/questions students master will count
+             8\% points towards their exam grade (with the first one being worth 9\%). After that, each concept/question will be worth 3\% towards your exam grade. So for example, if you master 11 of the 18 concepts your grade will be a 79\%. \\
+
+This particular way of arriving at the course grade is unusual.
+ It has some advantages. Each of you will get several chances to display mastery of almost all the problems.
+  Once you have displayed mastery of a problem there is no need to do problems like it on later exams.
+   So it can certainly happen that if you do well on the midterms you might only have to
+    do one or two problems on the Final. (A few students may not even have to take the final.) 
+    On the other hand, because earlier weak performances are not averaged in, students who come 
+    into the Final on shaky ground can still manage to get a respectable grade for the course.
+     This method of grading also stresses working out the problems in a completely correct way, 
+     since accumulating a lot of journeyman level performances only results in a journeyman level performance.
+      So it pays to do one problem carefully and correctly as opposed to trying to get four problems partially
+       correctly. Finally, this method of grading allows you to see easily which parts of the course you are
+        doing well with, and which parts deserve more attention. The primary disadvantage of this grading scheme 
+        is that it is complicated. At any time, if you are uncertain about how you are doing in the class I would
+         be more than glad to clarify the matter.   -->
+          </p>
+        </li>
+        <li>
+          <title>Technology </title>
+             
+          <p>
+            Please do not have your phones out unless it is for a class activity. If I see a phone 
+            out during a quiz or exam, you will receive an F on that quiz. 
+             You may use calculators in this course. 
+          </p>
+        </li>
+        <li>
+          <title>AI Usage Policy</title>
+                  
+          <p>
+            This policy is motivated by the rise of large language models (LLMs) and generative AI
+             assisted technologies. The policy aims to provide greater transparency and guidance to students.
+              This policy applies to all aspects of student work, from research and development of models 
+              (including code creation) to the written report or poster. Since these emerging technologies are 
+              quickly evolving, Dr. Harsy will refine this policy as appropriate.
+Students must be open and honest about all their uses of AI tools, including embedded AI 
+(e.g., code- copilots and other AI assisted auto-complete technologies, etc.). The more transparent a 
+student and their submissions are, the more likely it is that their work can be fully trusted, appreciated, 
+and correctly used by others. These disclosures aid in understanding the development of intellectual work and 
+in the proper acknowledgement of contributions. Without open and clear citations and references of the role of 
+AI tools, it is more likely that questionable passages and work could be identified as plagiarism and result in 
+deductions or a failed grade. Solving the problems in this class and creating posters for the class does
+ not require the use of AI tools, although their responsible use is permitted. 
+ Dr. Harsy recognizes the value of LLMs and generative AI as productivity tools that can help students
+  in preparing their submission; to generate initial ideas for a structure, for example, or when summarizing,
+   paraphrasing, language polishing etc. There are many tasks in model development where human creativity
+    and teamwork is essential, and where a reliance on AI tools introduces risks. Therefore,
+     we advise caution when using these technologies for tasks such as solving homework problem 
+     (often AI uses incorrect methods for what is being assessed), model selection and building,
+      assisting in the creation of code, interpreting data and results of models, and drawing scientific 
+      conclusions.
+          </p>
+          <p>
+It is important to note that LLMs and generative AI have limitations and are unable to
+ replace human creativity and critical thinking.
+ I advise students to be aware of these risks if they choose to use LLMs:
+          </p>
+          <p>
+  <ul>
+    <li><alert>Objectivity: </alert> 
+      Previously published content containing racist, sexist, or other biases can arise in LLM- generated text, 
+      and some important viewpoints may not be represented.
+    </li>
+
+     <li><alert>Accuracy: </alert> 
+      LLMs can ‘hallucinate’ i.e. generate false content, especially when used outside of their domain or when dealing with complex or ambiguous topics. They can generate content that is linguistically but not scientifically plausible, they can get facts wrong, and they have been shown to generate citations that don’t exist. Some LLMs 
+     are only trained on content published before a particular date and therefore present an incomplete picture.
+    </li>
+   <li> <alert> Contextual understanding: </alert> LLMs cannot apply human understanding to the context of
+     a piece of text, especially when dealing with idiomatic expressions, sarcasm, humor, or metaphorical language.
+      This can lead to errors or misinterpretations in the generated content.
+   </li>
+   <li> <alert> Training data: </alert> LLMs require a large amount of high-quality training data to 
+    achieve optimal performance. In some domains or languages, however, such data may not be readily available, 
+    thus limiting the usefulness of any output.
+   </li>
+  </ul>
+</p>
+<p> <alert>Students are expected to: </alert>
+  <ol>
+    <li>
+      <p>
+        Clearly indicate the use of LLMs or other AI tools, including embedded AI (e.g., code-copilots and 
+        other AI assisted auto-complete technologies, etc.) in their report, including which model was used 
+        and for what purpose. Please use inline citations and the reference section. Also include the Report 
+        on Use of AI (described below) along with your project or homework submissions.
+      </p>
+    </li>
+    <li>
+      <p>
+        Verify the accuracy, validity, and appropriateness
+         of the content and any citations generated by language models and correct any 
+         errors or inconsistencies.
+      </p>
+    </li>
+    <li>
+      <p>
+        Provide citation and references, following guidance provided here.
+         Double-check citations to ensure they are accurate and are properly referenced.
+      </p>
+    </li>
+    <li>
+      <p>
+        Be conscious of the potential for plagiarism since LLMs may reproduce substantial text from other sources. 
+        Check the original sources to be sure you are not plagiarizing someone else’s work.
+      </p>
+    </li>
+  </ol>
+</p>
+<p>
+ <alert> Dr. Harsy will take appropriate action
+when she identifies submissions likely prepared with undisclosed use of such tools.</alert> </p>
+        </li>
+  <li>
+    <title>Citation and Referencing Directions </title>
+    <p>
+      Think carefully about how to document and reference whatever tools, papers, references you may 
+      choose to use. A variety of style guides are beginning to incorporate policies for the citation
+       and referencing of AI tools. Use inline citations and list all AI tools used in the creation of 
+       your projects and assignments. Here is an example of how cite your AI use:
+      </p>
+       <p>
+        OpenAI ChatGPT (Nov 5, 2023 version, ChatGPT-4)
+       </p>
+       <p>
+Query1: (insert the exact wording you input into the AI tool) 
+       </p>
+       <p>
+Output: (insert the complete output from the AI tool)
+
+       </p>
+  </li>    
+ 
+      </dl>
+    </p>
+  </section>
+  <section xml:id="sec-assessments">
+    <title>Assessments</title>
+    <paragraphs>
+      <title>Homework</title>
+      <p>
+Almost every week, I will collect a homework assignment. I will post these homework assignments on Blackboard. You may work with others on the homework, but it must be your own work. If I catch you copying homework, you will get a 0. Please see the academic honesty section below.  Sometimes the homework include a ``warm-up" assignment to 
+either supplement what was learned in class or to introduce what will be covered in the following class.      </p>
+    </paragraphs>
+      <paragraphs>
+      <title>Class Activities</title>
+      <p>
+Every class will include some kind of interactive activity and/or problem 
+set related to the reading and video assignments. The activities will include hands-on discovery 
+learning and collaborative group work. You will be solving problems from the perspective of our 
+mathematical founders. This means that we often know “the solution” and we will instead emphasize
+ the way mathematics was developed. Therefore, I will be pushing you to think flexibly, to provide 
+ solutions using multiple representations, and to provide clear explanations of your reasoning.
+  Each activity will be completed in small groups. You are expected to positively contribute to 
+  discussions and to be actively engaged in the activities. This is not possible if you are frequently 
+  absent, off task, or fail to contribute to your group. 
+      </p>
+      <p>
+Your group will submit one set of responses for each activity, approximately once per week.
+ You will also submit individual group evaluations which will help inform your participation grade.
+To earn credit, submitted assignments should follow the posted Assigned Work Guidelines. Most activities
+ will be assessed on mathematical reasoning, conceptual understanding, professional communication, explanation,
+  and justification. Work that is suspected to be plagiarized will earn 0 points and may result in a
+   reduced grade for the course (see Lewis' Academic Integrity Policy).        
+      </p>
+    </paragraphs>
+     <paragraphs>
+      <title>Reading Quizzes, Discussions, and Video Assignments</title>
+
+      <p>
+The history of mathematics is filled with many intriguing stories and folk tales. 
+Understanding the historical and social context surrounding a particular mathematical idea helps us 
+better understand the concept itself. For this reason, regular reading will be assigned from the textbook, 
+and supplemental articles and videos will be posted on Blackboard.
+ Reading quizzes and online discussions will assess your understanding of the main 
+ ideas from texts and class activities. Quizzes, discussions, and videos will be open book/notes 
+ and will be posted to Blackboard.       
+      </p>
+    </paragraphs>
+     <paragraphs>
+      <title>Projects</title>
+      <p>
+There will be a several projects that studies the historical and social impact of one mathematician.
+ These project will also be an opportunity to learn about mathematicians from historically underrepresented 
+groups.  
+ The <em> tentative </em> due dates for the projects are listed below and details will be posted on Blackboard.
+      </p>  
+       <dl>
+          <li>
+            <title>Project I</title>
+            <p>
+              Wednesday, September 24, 2025
+            </p>
+          </li>
+          <li>
+            <title>Project II</title>
+            <p>
+              Wednesday, October 29, 2025
+            </p>
+          </li>
+          <li>
+            <title>Project III</title>
+            <p>
+              Finals Week 
+            </p>
+          </li>
+        </dl>
+    </paragraphs> 
+  </section>
+  <section xml:id="sec-grading">
+    <title>Grading</title>
+    <tabular>
+      <row header="yes" bottom="minor">
+        <cell>Component</cell>
+        <cell>Weight</cell>
+      </row>
+      <row>
+        <cell>Participation</cell>
+        <cell>15%</cell>
+      </row>
+      <row>
+        <cell>Class Activities (Activity Sets, evaluations):</cell>
+        <cell>35%</cell>
+      </row>
+      <row>
+        <cell>Reading Quizzes, Discussions, Videos:</cell>
+        <cell>20%</cell>
+      </row>
+      <row>
+        <cell>Projects</cell>
+        <cell>30%</cell>
+      </row>
+    </tabular>
+   
+    <tabular>
+      <col halign="center"/><col />
+      <row header="yes" bottom="minor">
+        <cell>Letter Grade</cell>
+        <cell>Lower Cutoff</cell>
+      </row>
+      <row>
+        <cell>A</cell>
+        <cell>93%</cell>
+      </row>
+      <row>
+        <cell>A-</cell>
+        <cell>90%</cell>
+      </row>
+      <row>
+        <cell>B+</cell>
+        <cell>87%</cell>
+      </row>
+      <row>
+        <cell>B</cell>
+        <cell>83%</cell>
+      </row>
+      <row>
+        <cell>B-</cell>
+        <cell>80%</cell>
+      </row>
+      <row>
+        <cell>C+</cell>
+        <cell>77%</cell>
+      </row>
+      <row>
+        <cell>C</cell>
+        <cell>73%</cell>
+      </row>
+      <row>
+        <cell>C-</cell>
+        <cell>70%</cell>
+      </row>
+      <row>
+        <cell>D+</cell>
+        <cell>67%</cell>
+      </row>
+      <row>
+        <cell>D</cell>
+        <cell>63%</cell>
+      </row>
+      <row>
+        <cell>D-</cell>
+        <cell>60%</cell>
+      </row>
+      <row>
+        <cell>F</cell>
+        <cell>0%</cell>
+      </row>
+    </tabular>
+  </section>
+  <section xml:id="sec-schedule">
+    <title>Tentative Schedule of Topics</title>
+    <p>
+      <dl>
+        <li>
+          <title>Week 1</title>
+          <p>
+            Integer Properties; Logic
+          </p>
+        </li>
+        <li>
+          <title>Week 2</title>
+          <p>
+            Logic
+          </p>
+        </li>
+        <li>
+          <title>Week 3</title>
+          <p>
+            Proofs
+          </p>
+        </li>        
+        <li>
+          <title>Week 4</title>
+          <p>
+            Sets; Functions
+          </p>
+        </li>        
+        <li>
+          <title>Week 5</title>
+          <p>
+            Functions; Computation
+          </p>
+        </li>        
+        <li>
+          <title>Week 6</title>
+          <p>
+            Computation and <alert>Test I on Wednesday, February 26 (7:30<ndash/>9pm)</alert>
+          </p>
+        </li>        
+        <li>
+          <title>Week 7</title>
+          <p>
+            Induction
+          </p>
+        </li>        
+        <li>
+          <title>Week 8</title>
+          <p>
+            Recursion
+          </p>
+        </li>        
+        <li>
+          <title>Week 9</title>
+          <p>
+            Recursion; Recurrence Relations
+          </p>
+        </li>
+        <li>
+          <title>Spring Break</title>
+          <p>
+            March 22<ndash/>30, 2025
+          </p>
+        </li>        
+        <li>
+          <title>Week 10</title>
+          <p>
+            Relations and digraphs
+          </p>
+        </li>        
+        <li>
+          <title>Week 11</title>
+          <p>
+            Couting and <alert>Test II on Wednesday, April 9 (7:30<ndash/>9pm)</alert>
+          </p>
+        </li>        
+        <li>
+          <title>Week 12</title>
+          <p>
+            Counting; Graphs
+          </p>
+        </li>        
+        <li>
+          <title>Week 13</title>
+          <p>
+            Graphs
+          </p>
+        </li>        
+        <li>
+          <title>Week 14</title>
+          <p>
+            Trees
+          </p>
+        </li>        
+        <li>
+          <title>Final Exam</title>
+          <p>
+            <alert>Tuesday, May 6 (5:05<ndash/>7:05pm)</alert>
+          </p>
+        </li>        
+      </dl>
+    </p>
+    <p>
+      Note that class will meet as scheduled during the weeks of the two tests in addition to meeting on Wednesday evening for the test.
+    </p>
+  </section>
+  <section xml:id="sec-inst-statements">
+    <title>Institutional Syllabus Statements</title>
+    <p>
+      The following statements from the institution all apply in this course:
+      <ul>
+        <li>
+          <p>
+            Academic Calendar &#x26; Religious Observances
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Academic Integrity
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Statement Accommodations for Students with Disabilities
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Course Evaluations
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Diversity &#x26; Inclusion Statement
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Mental Health and Well-Being Statement
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Privacy of Student Records &#x26; the Use of Audio Recorded Lectures Statement
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Students<rsq/> Rules, Rights &#x26; Responsibilities, and
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Teaching &#x26; Learning Data Transparency Statement
+          </p>
+        </li>
+      </ul>
+      The full text of all of these statements can be found in <url href="https://guide.wisc.edu/courses/#syllabustext" visual="guide.wisc.edu/courses/#syllabustext">the Guide</url>.
+    </p>
+  </section>
+  <!-- back matter -->
+   
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </article>
+</pretext>

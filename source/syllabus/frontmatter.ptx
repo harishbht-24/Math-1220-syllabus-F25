@@ -4,21 +4,81 @@
 <!-- works. -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
-  <bibinfo>
+  <!-- <bibinfo>
     <author>
-      <personname>Mitchel T. Keller</personname>
+      <personname>Dr. Amanda Harsy</personname>
       <department>Department of Mathematics</department>
-      <institution>University of Wisconsin<ndash />Madison</institution>
+      <institution>Lewis University </institution>
     </author>
-    <date>
-      Last Updated: <today />
-    </date>
-
-  </bibinfo>
-
+      </bibinfo>  -->
+  
+<aside component="online">
+            <p>
+              My pronouns are she/her/hers.
+              I ask that you address me as <q>Dr. Harsy</q> or <q>Dr.
+              H</q>, the appropriate professional forms and my preferred professional name.
+              Since this is not high school, please do not address me as <q>Mrs. Harsy</q> or <q>Mrs. Ramsay</q>. 
+              The latter is my social name.
+              In general, you will find that I am not an overly formal individual.
+              However, academia has a long history of marginalizing scholars<mdash/>professors, librarians, and students<mdash/>who don't present as the Hollywood image of a professor (older, white, male).
+              Using titles for all your instructors is a small way that we can make the academy more inclusive.
+              Therefore, in solidarity with my colleagues of all identities and backgrounds, <q>Dr.
+              Harsy</q> is the form of address that I prefer.
+              </p>
+          </aside>
   <titlepage>
     <titlepage-items/>
   </titlepage>
+<title>Instructor Information</title>
+
+        <p> <nbsp/>
+          <dl>
+              <li>
+          <title>Instructor</title> 
+          <p> Dr. Amanda Harsy</p>
+          
+           </li>
+         
+            
+              <li>
+                <title>Title</title>
+                <p>
+                  Professor of Mathematics
+                </p>
+              </li>
+              <li>
+                <title>Email</title>
+                <p>
+                  <url href="mailto:harsyram@lewisu.edu" visual="harsyram@lewisu.edu">harsyram@lewisu.edu</url>
+                </p>
+              </li>
+              <li>
+                <title>Office Hours</title>
+                <p>
+                  MF 3-3:30, T 2-3:30, W 3-5 or by appointment
+                </p>
+              </li>
+              <li>
+                <title>Office Location</title>
+                <p>
+                  SU-124
+                </p>
+              </li>
+              <li>
+                <title>Office Phone</title>
+                <p>
+                  815-836-5688
+                </p>
+              </li>
+              <li>
+                <title>Professor Personal Webpage</title>
+                <p>
+                  <url href="https://www.cs.lewisu.edu/~harsyram/" visual="Dr. H's Wepage" />
+                </p>
+              </li>
+            </dl>
+          </p>
+       
 
   <!-- <colophon xml:id="front-colophon">
     <colophon-items/>
