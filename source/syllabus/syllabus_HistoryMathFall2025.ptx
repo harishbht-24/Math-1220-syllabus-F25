@@ -50,7 +50,7 @@ This course surveys the historical development of mathematics spanning from the 
         </dl>
       </p>
       <paragraphs>
-        <title>Learning Outcomes</title>
+        <title>Student Learning Outcomes</title>
         <p>
           <ol>
             <li>
@@ -305,6 +305,26 @@ Output: (insert the complete output from the AI tool)
        </p>
   </li>    
  
+  <li> <title> Make-Ups Assignments </title>
+    <p>
+      There will be no make-ups for any assignments. If you are late or miss class, 
+      your assignment will not be accepted and there will be no make-up offered, 
+      except in extenuating and unpredictable circumstances. If you will miss class
+       for a justifiable and unavoidable reason, you can contact me <alert>before </alert>
+       you miss class and it is possible you can have a make-up. If you do not contact me,
+       you will not be allowed a make-up or late assignment.
+    </p>
+  </li>
+  <li> <title> Class Attendance </title>
+    <p>
+      Attendance is critical for success in this course and is required of all students without exception. A student absent from class is responsible for all material covered that day. I usually post solutions to ICE sheets and post notes. I will stop doing this if there is a trend of absences. In other words, I will not post lecture notes unless there is consistent attendance. Students are expected to attend all classes as part of the normal learning process.
+    </p>
+  </li>
+  <li> <title>Course Relationship to Mission:</title>
+      <p>
+      Lewis University, guided by its Catholic and Lasallian heritage, provides to a diverse student population programs for a liberal and professional education grounded in the interaction of knowledge and fidelity in the search for truth.Lewis promotes the development of the complete person through the pursuit of wisdom and justice.  Fundamental to its Mission is a spirit of association, which fosters community in all teaching, learning and service.   This course embraces the Mission of the University by fostering an environment in which each student is respected as an individual within a community of learners.  In the spirit of the vision of Lewis University, the goals and objectives of this course seek to prepare students to be successful, life-long learners who are intellectually engaged, ethically grounded, socially responsible, and globally aware.
+    </p>
+  </li>
       </dl>
     </p>
   </section>
@@ -630,6 +650,45 @@ groups.
       The full text of all of these statements can be found in <url href="https://guide.wisc.edu/courses/#syllabustext" visual="guide.wisc.edu/courses/#syllabustext">the Guide</url>.
     </p>
   </section>
+
+  <section xml:id="sec-SLOS">
+    <title>Student Learning Objectives</title>
+    <paragraphs>
+      <title>Mathematics Program Learning Outcomes:</title>
+      <p>
+        A Lewis University Mathematics Graduate will be able to:
+        <ol>
+          <li>
+            <p>
+              Model the essential components of a problem mathematically so that it can be solved through mathematical means.
+            </p>
+          </li>
+            <li>
+            <p>
+              Solve problems through the appropriate technology.
+            </p>
+          </li>
+          <li>
+            <p>
+              Write clear and concise formal proofs of mathematical theorems, and evaluate the validity of proofs written by others.
+            </p>
+          </li>
+          <li>
+            <p>
+              Solve mathematics problems as a member of a group and in front of a group.
+            </p>
+          </li>
+          <li>
+            <p>
+              Describe and leverage the interdependency of different areas of mathematics, the connections between mathematics and other disciplines, and the historical context for the development of mathematical ideas.
+            </p>
+          </li>
+        </ol>
+        Of these, this course addresses program learning outcomes 3, 4, and 5 all at the  reinforced level. These student learning outcomes will be 
+        demonstrated through projects, homework, and class activities.
+      </p>
+      </paragraphs>
+    </section>
   <!-- back matter -->
    
     <!-- Include backmatter -->
