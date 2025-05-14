@@ -684,8 +684,8 @@ groups.
             </p>
           </li>
         </ol>
-        Of these, this course addresses program learning outcomes 3, 4, and 5 all at the  reinforced level. These student learning outcomes will be 
-        demonstrated through projects, homework, and class activities.
+        <em>Of these, this course addresses program learning outcomes 3, 4, and 5 all at the  reinforced level. These student learning outcomes will be 
+        demonstrated through projects, homework, and class activities.</em>
       </p>
     </paragraphs>
 
@@ -731,9 +731,38 @@ groups.
               </p>
             </li>
         </ol>
-
+<p>
+<em>This course addresses Baccalaureate Characteristics 1 and 6 at the reinforced level. It provides students essential skills in mathematics, abstraction, and algorithmic thinking. It reinforces quantitative and empirical approaches to knowledge.  In asking students to reduce problems to their important components and charting a path for solving them, it fosters critical thinking. These student learning outcomes will be demonstrated through projects, homework, and class activities.
+</em>
+</p>
       
       </paragraphs>
+
+    <paragraphs>
+      <title>General Education Domain Criteria</title>
+          <ul>
+        <li>
+          <p>
+           <alert> Knowledge:</alert> Develop quantitative and analytic reasoning skills and strategies to solve real world problems. Understand the centrality of quantitative and analytic reasoning along with mathematical inference in solving real world problems. 
+          </p>
+        </li>
+        <li>
+          <p>
+           <alert> Skills:</alert> Use quantitative and analytic reasoning skills and strategies to solve real world problems; communicate mathematical information symbolically, visually, numerically, and verbally; interpret mathematical models such as formulas, graphs, tables, and schematics, and draw inferences from them. 
+          </p>
+        </li>
+        <li>
+          <p>
+            <alert>Actions:</alert> Apply quantitative reasoning and analytical thinking to modern life, evaluate the soundness and accuracy of conclusions derived from quantitative information. Apply mathematical techniques and logical reasoning to produce predictions, analyze, identify optima, and/or make inferences based on a given set of quantitative information. 
+          </p>
+        </li>
+        <li>
+          <p>
+            <alert>Values: </alert> Apply ethical reasoning to communicate mathematics fairly and honestly. Recognize improper or unfair uses of data, probability, statistics, logic, or gaming. 
+          </p>
+        </li>
+      </ul>
+    </paragraphs>  
     </section>
   <!-- back matter -->
    
