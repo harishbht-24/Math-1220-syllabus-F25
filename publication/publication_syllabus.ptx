@@ -145,7 +145,7 @@
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
       <css
           theme="greeley"
-          primary-color="#C5050C"
+          primary-color="#275d38"
           primary-color-dark="#FA474D"
       />
 
