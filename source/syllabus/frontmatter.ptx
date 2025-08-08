@@ -5,14 +5,14 @@
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <bibinfo>
-    <author>
-      <personname>Mitchel T. Keller</personname>
+   <!-- <author>
+      <personname>Harish Bhatt</personname>
       <department>Department of Mathematics</department>
-      <institution>University of Wisconsin<ndash />Madison</institution>
+      <institution>Utah Valley University</institution>
     </author>
     <date>
       Last Updated: <today />
-    </date>
+    </date>-->
 
   </bibinfo>
 

@@ -4,31 +4,31 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <article xml:id="math240-syllabus">
-    <title>Spring 2025 Syllabus</title>
-    <subtitle>MATH/COMP SCI 240</subtitle>
+  <article xml:id="math1220-syllabus">
+    <title>Fall 2025 Syllabus</title>
+    <subtitle>MATH 1220: Calculus II</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <section xml:id="sec-course-info">
-      <title>Course Information</title>
+      <section xml:id="Instructor-info">
+      <title>Instructor Information</title>
       <p>
         <dl>
           <li>
-            <title>Course Description</title>
+            <title>Instructor</title>
             <p>
-              Basic concepts of logic, sets, partial order and other relations, and functions. Basic concepts of mathematics (definitions, proofs, sets, functions, and relations) with a focus on discrete structures: integers, bits, strings, trees, and graphs. Propositional logic, Boolean algebra, and predicate logic. Mathematical induction and recursion. Invariants and algorithmic correctness. Recurrences and asymptotic growth analysis. Fundamentals of counting.
+              Dr. Harish Bhatt
             </p>
           </li>
           <li>
-            <title>Credits</title>
+            <title>Office Location</title>
             <p>
-              3
+              LA 121V
             </p>
           </li>
-          <li>
+         <!-- <li>
             <title>Course Designations and Attributes</title>
             <p>
               <dl>
@@ -52,193 +52,159 @@
                 </li>
               </dl>
             </p>
-          </li>
+          </li>-->
           <li>
-            <title>Requisite</title>
+            <title>Office Hours</title>
             <p>
-              MATH 217 or 221
+             MTWR 10:00 - 10:50
             </p>
           </li>
           <li>
-            <title>Instructional modality</title>
+            <title>Preferred Method of Contact</title>
             <p>
-              In-person
+              Email or Canvas Messaging, or Teams Messaging
+            </p>
+          </li>  
+          <li>
+            <title>Appointment</title>
+            <p>
+              Students unable to see me during office hours may request an appointment through email.   
             </p>
           </li>  
         </dl>
       </p>
-      <paragraphs>
-        <title>Learning Outcomes</title>
+    </section>
+    <section xml:id="sec-course-info">
+      <title>Class Information</title>
+      <p>
+        <dl>
+          <li>
+            <title>Course Number/Section</title>
+            <p>
+             MATH 1220-002
+            </p>
+          </li>
+          <li>
+            <title>Credits</title>
+            <p>
+              4
+            </p>
+          </li>
+           <li>
+            <title>Class Meeting Time</title>
+            <p>
+             MTWRF 10:00-10:50 AM @ SB 138 
+            </p>
+          </li>
+         <!-- <li>
+            <title>Course Designations and Attributes</title>
+            <p>
+              <dl>
+                <li>
+                  <title>Breadth</title>
+                  <p>
+                    Natural Science
+                  </p>
+                </li>
+                <li>
+                  <title>Level</title>
+                  <p>
+                    Intermediate
+                  </p>
+                </li>
+                <li>
+                  <title>L&amp;S Credit</title>
+                  <p>
+                    Counts as Liberal Arts and Science credit in L&amp;S
+                  </p>
+                </li>
+              </dl>
+            </p>
+          </li>-->
+          <li>
+            <title>Instructional modality</title>
+            <p>
+              Face to Face
+            </p>
+          </li>  
+        </dl>
+      </p>
+    </section>
+    <section xml:id="Prereq">
+      <title>Prerequisite</title>
+      <p>
+        MATH 1210 with a C, or better, or equivalent. Students who have not satisfied the
+prerequisite will be administratively dropped from the class.
+      </p>
+    </section>
+    <section xml:id="CourseDes">
+      <title>Course Description</title>
+      <p>
+        Includes applications of integration, integration techniques, arc length, area of a surface of revolution,
+moments and centers of mass, sequences and series, and parameterization of curves and polar
+coordinates
+      </p>
+    </section>
+    <section xml:id="Learning_outcome">
+      <title>Learning Outcomes</title>
+        <paragraphs>
         <p>
           <ol>
             <li>
               <p>
-                Be able to construct proofs by induction to prove properties in a variety of domains (mathematical formulas, recursively-defined structures, loop invariants, correctness of recursive programs).
+                Use integrals to compute the area between two curves, the volume of a solid of revolution or known
+cross sections, and the average value of a function.
               </p>
             </li>
             <li>
               <p>
-                Apply basic combinatoric techniques to counting problems.
+                Solve application problems related to integration, including force, work, and volume.
               </p>
             </li>
             <li>
               <p>
-                Develop basic skills to construct mathematically rigorous arguments and proofs.
+                Compute definite, indefinite, and improper integrals using integration by parts, trigonometric
+substitution, and partial fraction decomposition.
               </p>
             </li>
             <li>
               <p>
-                Gain exposure to the basics of program analysis (program correctness, recurrences, asymptotic analysis).
+                Approximate definite integrals using approximation formulars, including Simpson’s rule.
               </p>
             </li>
             <li>
               <p>
-                Demonstrate a familiarity with and an ability to reason about discrete structures/data types (integers, strings, bit strings, sets, relations, functions, graphs, trees).
+                Find the area of a surface of revolution, centroids, hydrostatic force, and the arc lengths of curves,
+parametric curves, and polar coordinates.
+              </p>
+            </li>
+             <li>
+              <p>
+                Determine the convergence/divergence of sequences and series using Partial Sum, Geometric Series
+Test, p-series Test, Comparison Test, Limit Comparison Test, Alternating Series Test, Ratio Test, and
+Root Test.
+              </p>
+            </li>
+             <li>
+              <p>
+                Find the interval of convergence of power series, Taylor series and the Taylor polynomial of a given
+function. Calculate the error bound using The Taylor Inequality.
               </p>
             </li>
           </ol>
         </p>
       </paragraphs>
-      <paragraphs>
-        <title>Meeting Times and Locations</title>
-        <p>
-          Both sections have lecture meetings in Van Vleck Hall B102. LEC 001 meets TR 11am<ndash/>12:15pm and LEC 002 meets TR 9:30<ndash/>10:45am. Each student is enrolled in one 50-minute discussion section led by one of the teaching assistants. Your discussion section meets either on Monday or Wednesday. Check your Student Center for your discussion number, time, and location.
-        </p>
-      </paragraphs>
-      <paragraphs>
-        <title>How the Credit Hours are Met by the Course</title>
-        <p>
-          This class meets for two 75-minute lectures and one 50-minute discussion each week over the  semester and carries the expectation that students will work on course learning activities (e.g. reading, problem sets, papers, and studying) for about six hours outside of classroom per week. The syllabus includes more information about meeting times and expectations for student work.
-        </p>
-      </paragraphs>
-    </section>
-    <section xml:id="sec-staff" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <title>Course Staff</title>
-      <subsection>
-        <title>Instructor</title>
-        <paragraphs>
-          <title>Dr. Mitch Keller</title>
-          <aside component="online">
-            <p>
-              My pronouns are he/him/his.
-              I ask that you address me as <q>Prof. Keller</q> or <q>Dr.
-              Keller</q>, the appropriate professional forms.
-              Since this is not high school, please do not address me as <q>Mr. Keller</q>.
-              In general, you will find that I am not an overly formal individual.
-              However, academia has a long history of marginalizing scholars<mdash/>professors, librarians, and students<mdash/>who don't present as the Hollywood image of a professor (older, white, male).
-              Using titles for all your instructors is a small way that we can make the academy more inclusive.
-              Therefore, in solidarity with my colleagues of all identities and backgrounds, <q>Prof.
-              Keller</q> is the form of address that I prefer.
-              </p>
-          </aside>
-          <p><nbsp/>
-            <dl>
-              <li>
-                <title>Title</title>
-                <p>
-                  Associate Director of Undergraduate Studies and Teaching Faculty
-                </p>
-              </li>
-              <li>
-                <title>Email</title>
-                <p>
-                  <url href="mailto:mitch.keller@wisc.edu" visual="mitch.keller@wisc.edu">mitch.keller@wisc.edu</url>
-                </p>
-              </li>
-            </dl>
-          </p>
-        </paragraphs>
-      </subsection>
-      <subsection>
-        <title>Teaching Assistants</title>
-        <paragraphs>
-          <title>LEC 001 (TR 11am<ndash/>12:15pm)</title>
-            <p><nbsp/>
-              <dl>
-                <li>
-                  <title>Sapir Ben-Shahar</title>
-                  <p>
-                    DIS 330 <url href="mailto:sbenshahar@wisc.edu" visual="sbenshahar@wisc.edu">sbenshahar@wisc.edu</url>
-                  </p>
-                </li>
-                <li>
-                  <title>Cheng Chen</title>
-                  <p>
-                    DIS 305 <url href="mailto:cchen593@wisc.edu" visual="cchen593@wisc.edu">cchen593@wisc.edu</url>
-                  </p>
-                </li>                
-                <li>
-                  <title>Yanbo Chen Chen</title>
-                  <p>
-                    DIS 307, 308 <url href="mailto:chen2425@wisc.edu" visual="chen2425@wisc.edu">chen2425@wisc.edu</url>
-                  </p>
-                </li>                    
-                <li>
-                  <title>Alex Menzia</title>
-                  <p>
-                    DIS 303, 304 <url href="mailto:menzia@wisc.edu" visual="menzia@wisc.edu">menzia@wisc.edu</url>
-                  </p>
-                </li>
-                <li>
-                  <title>Jeremy Nohel</title>
-                  <p>
-                    DIS 329 <url href="mailto:nohel@wisc.edu" visual="nohel@wisc.edu">nohel@wisc.edu</url>
-                  </p>
-                </li>                
-                <li>
-                  <title>Zihao Sun</title>
-                  <p>
-                    DIS 306, 309, 310 <url href="mailto:zsun333@wisc.edu" visual="zsun333@wisc.edu">zsun333@wisc.edu</url>
-                  </p>
-                </li>
-              </dl>
-            </p>
-        </paragraphs>
-        <paragraphs>
-          <title>LEC 002 (TR 9:30<ndash/>10:45am)</title>
-            <p><nbsp/>
-              <dl>
-                <li>
-                  <title>Summer Al-Hamdani</title>
-                  <p>
-                    DIS 323, 324 <url href="mailto:alhamdani@wisc.edu" visual="alhamdani@wisc.edu">alhamdani@wisc.edu</url>
-                  </p>
-                </li>
-                <li>
-                  <title>Sapir Ben-Shahar</title>
-                  <p>
-                    DIS 327, 328 <url href="mailto:sbenshahar@wisc.edu" visual="sbenshahar@wisc.edu">sbenshahar@wisc.edu</url>
-                  </p>
-                </li>                
-                <li>
-                  <title>Cheng Chen</title>
-                  <p>
-                    DIS 321, 322 <url href="mailto:cchen593@wisc.edu" visual="cchen593@wisc.edu">cchen593@wisc.edu</url>
-                  </p>
-                </li>
-                <li>
-                  <title>Hoang Nguyen</title>
-                  <p>
-                    DIS 301, 302 <url href="mailto:htnguyen35@wisc.edu" visual="htnguyen35@wisc.edu">htnguyen35@wisc.edu</url>
-                  </p>
-                </li>                
-                <li>
-                  <title>Jiaqi Hou</title>
-                  <p>
-                    DIS 325, 326 <url href="mailto:jhou39@wisc.edu" visual="jhou39@wisc.edu">jhou39@wisc.edu</url>
-                  </p>
-                </li>
-              </dl>
-            </p>
-        </paragraphs>
 
-      </subsection>
-      <subsection xml:id="subsec-office-hours">
-        <title>Office Hours</title>
-        <p>
-          Students are welcome to attend the office hour of the instructor or any of the teaching assistants. Office hours are posted on Canvas, including updates in the event any individual office hour is cancelled or rescheduled.
-        </p>
-      </subsection>
+    </section>
+    <section xml:id="policyDept" >
+      <title> Department of Mathematics Policy </title>
+      <p>
+        Each student is expected to:
+
+Perform basic algebraic and arithmetic operations using their knowledge of mathematical facts, rules, and properties.
+Recognize and use their knowledge of a wide variety of mathematical definitions, terms, symbols, expressions, statements, formulas, procedures, and methods taught or used in the course.
+Solve problems by selecting the most appropriate mathematical formula, procedure, or methods from among several formulas, procedures, or methods known by the student.
+      </p>
     </section>
   <section xml:id="sec-materials">
     <title>Textbook and Other Required Materials</title>
@@ -247,153 +213,180 @@
         <li>
           <title>Textbook</title>
           <p>
-            The required course text is the ebook <pubtitle>Introduction to Discrete Mathematics</pubtitle> by Irani et al. The ISBN is 978-1-394-05895-2. A subscription is $64. Students may begin subscribing on January 7, 2025 and the cutoff to subscribe is April 26, 2025. Subscriptions will last until May 23, 2025. <alert>To subscribe, click any zyBooks assignment link in Canvas and subscribe. (Do not go to the zyBooks website and create a new account.)</alert>
+            The required course text is the ebook <pubtitle>Calculus, Volume 2</pubtitle> by Gilbert Strang, Edwin "Jed" Herman, et al. (OpenStax) <url href="https://openstax.org/details/books/calculus-volume-2">Calculus 2</url>
           </p>
         </li>
         <li>
-          <title>Canvas</title>
+          <title>Calculator</title>
           <p>
-            Course materials will be posted to or linked from <url href="https://canvas.wisc.edu/courses/437531" visual="canvas.wisc.edu/courses/437531">Canvas</url>. This includes lecture slides, discussion worksheets, zyBook Participation and Challenge Activities, sample test questions, and written homework assignments. Announcements from the instructor and TAs will also be posted using Canvas. You are responsible for reading Canvas announcements in a timely manner.
-          </p>
-        </li>
-        <li>
-          <title>Gradescope</title>
-          <p>
-            You will scan and submit your written homework to Gradescope. Homework will be graded and returned to you within Gradescope. Tests and the final exam will be taken on paper, but the instructional team will scan them and upload them to Gradescope. Graded tests and the final exam will be returned to you using Gradescope. You will be able to access Gradescope using links from Canvas.
-          </p>
-        </li>
-        <li>
-          <title>Piazza</title>
-          <p>
-            We will use <url href="https://piazza.com/wisc/spring2025/sp25mathandcs240001002" visual="piazza.com/wisc/spring2025/sp25mathandcs240001002">Piazza</url>. This page is a forum for you to discuss the material of this class with other students and your TAs and/or instructor. Posts to this page should be confined to questions regarding the material and logistical questions about the class (e.g., exam dates and locations). Please do not use email for math questions.
-          </p>
-          <p>
-            Any posts containing comments (either positive or negative) about the instructors, the class, the students, or anything else, will be deleted. Unprofessional conduct may result in disciplinary action. 
+            Calculator with graphing capabilities is required. A TI-83, TI-84, or similar calculator is recommended. Cell phones and smart watches are not allowed during exams.
           </p>
         </li>
       </dl>
     </p>
   </section>
   <section xml:id="sec-assessments">
-    <title>Assessments</title>
-    <paragraphs>
-      <title>zyBook Participation Activities</title>
-      <p>
-        Reading assignments including questions graded for completion to give you the opportunity to check your understanding will be regularly assigned in our zyBook. These assignments are meant to be done <em>before</em> we cover content in lecture so that we have more time for active learning in class. <alert>You will receive full credit for a zyBook Participation Activity if you answer the questions.</alert> Because these zyBook Participation Activities are your first exposure to the material, we do not expect you to understand everything from the reading alone. <em>You will gain the most from these activities if you take them seriously, think about the questions before answering, and work to understand the reasoning for the correct answer when you get a question incorrect.</em>
-      </p>
-      <p>
-        zyBook Participation Activities are due each Tuesday morning at 8am CT. They are worth 3% of your course grade. No late zyBook Participation Activities will be accepted, but the lowest three scores will be dropped.
-      </p>
-    </paragraphs>
-    <paragraphs>
-      <title>Discussion Participation</title>
-      <p>
-        Starting in the second week, the teaching assistants will take attendance in discussion. Mathematics is a human activity, and we learn by engaging with other humans. Discussion allows you to do this in a small enough group that every student can interact with peers and their TA during each meeting. Students who do not actively participate during activities in discussion may not receive credit for participation. You must attend the discussion section for which you are registered; missed discussion sections may not be made up. However, we will drop three, so discussion participation will be taken out of 10 and is 3% of your course grade.
-      </p>
-    </paragraphs>
-    <paragraphs>
-      <title>zyBook Challenge Activities</title>
-      <p>
-        Most weeks you will have a zyBook Challenge Activity. Unlike the zyBook Participation Activities, the zyBook Challenge Activities are (automatically) graded for correctness. The zyBook Challenge Activities follow up on material from lecture after you have also had time to work on the material in discussion. 
-      </p>
-      <p>
-        zyBook Challenge Activities are due Thursday nights at 11:59pm CT. They are worth 7% of your course grade. No late zyBook Challenge Activities will be accepted, but the lowest two scores will be dropped.
-      </p>
-    </paragraphs>
-    <paragraphs>
-      <title>Written Homework</title>
-      <p>
-        Most weeks you will have a written homework assignment. These will give you an opportunity to write out proofs and solutions in the manner that you will be expected to on the exams. You will submit your solutions using Gradescope following instructions provided on Canvas. The questions on each written homework will be graded for correctness by the TAs and graders.
-      </p>
-      <p>
-        Collaborating with other students on the written homework is encouraged, but you must write up all reasoning and solutions on your own (in other words, no copying). Failure to abide by this guideline could be construed as a form of academic dishonesty. 
-      </p>
-      <p>
-        The purpose of this course is to develop your ability to understand and construct mathematical arguments or proofs. The use of artificial intelligence (AI) tools and applications (including, but not limited to, ChatGPT, Copilot, DALL-E, and others) for written homework does not support the learning objectives of this course and is prohibited. Using them in any way for written homework in this course is a violation of the course’s expectations and will be addressed through UW–Madison’s academic misconduct policy, specifically UWS 14.03(1)b (b) Uses unauthorized materials or fabricated data in any academic exercise.
-      </p>
-      <p>
-        Each problem on written homework should be completed with neat, understandable, detailed solutions and explanations. Your explanations and proofs must be sound and rigorous, paying attention to detail and clarity. 
-      </p>
-      <p>
-        Written homework is due Thursday nights at 11:59pm CT. It is worth 15% of your course grade. Late written homework will generally not be accepted. Since you likely will either experience a technical difficulty (e.g., missed the deadline, your computer shut down as you were submitting it, internet outage, etc.) or a personal emergency (being sick, attending a funeral, etc.) during the semester, the two lowest two written homework scores will be dropped. You do not need to contact your instructor or TA if such a situation does come up. 
-      </p>
-    </paragraphs>
-    <paragraphs>
-      <title>Tests and Exams</title>
-      <p>
-        This course will have two tests and a final exam. Each will be worth 24% of your course grade. The dates and times for these assessments are:
-        <dl>
-          <li>
-            <title>Test I</title>
-            <p>
-              Wednesday, February 26, 2025. 7:30<ndash/>9pm. Location announced via Canvas.
-            </p>
-          </li>
-          <li>
-            <title>Test II</title>
-            <p>
-              Wednesday, April 9, 2025. 7:30<ndash/>9pm. Location announced via Canvas.
-            </p>
-          </li>
-          <li>
-            <title>Final Exam</title>
-            <p>
-              Tuesday, May 6, 2025. 5:05<ndash/>7:05pm. Location announced via Canvas.
-            </p>
-          </li>
-        </dl>
-      </p>
-      <p>
-        Students must use the form provided on Canvas to inform the instructor of conflicts with the dates and times of the tests or final exam during the first two week of classes. Reports of conflicts will be reviewed. Submitting incorrect information in order to take a test or the final exam at a different time may be considered an act of academic misconduct.
-      </p>
-      <p>
-        During exams, students will not be allowed to use any notes or electronic devices. Ample space will be provided on the exams for you to show your work. You must bring a writing utensil.
-      </p>
-      <p>
-        <em>Added March 7, 2025</em>: If a student's overall course grade would increase by using their final exam score in place of the lower of their scores on Test I and Test II, they will receive the grade based on this alternative grade computation method.
-      </p>
-    </paragraphs>
-  </section>
-  <section xml:id="sec-grading">
-    <title>Grading</title>
+    <title>Assignments and Assessments Description</title>
+    <pragraphs>
     <p>
-      The grade components and their are all identified above. For quick reference, they are also summarized in the table below.
-    </p>
+      To accomplish the learning outcomes of this course, the learner is required to: 
+    </p> 
+    <ol>        
+<li>
+  <p>
+   Participate in class activities. 
+  </p>
+</li>
+<li>
+  <p>
+   Complete tests and homework assignments. 
+  </p>
+</li>
+<li>
+  <p>
+   Complete a final exam. 
+  </p>
+</li>
+</ol>
+    </pragraphs>
     <tabular>
       <row header="yes" bottom="minor">
-        <cell>Component</cell>
+        <cell>Requirements</cell>
         <cell>Weight</cell>
+        <cell>Date</cell>
       </row>
       <row>
-        <cell>zyBook Participation Activities</cell>
-        <cell>3%</cell>
+        <cell>Lumen Homework</cell>
+        <cell>20%</cell>
+        <cell></cell>
       </row>
       <row>
-        <cell>Discussion Participation</cell>
-        <cell>3%</cell>
+        <cell>Class Participation</cell>
+        <cell>5%</cell>
+        <cell></cell>
       </row>
       <row>
-        <cell>zyBook Challenge Activities</cell>
-        <cell>7%</cell>
+        <cell>Exam 1</cell>
+        <cell>16%</cell>
+        <cell>September 25 (Chapters 2 and Sections 3.1-3.4)</cell>
       </row>
       <row>
-        <cell>Written Homework</cell>
-        <cell>15%</cell>
+        <cell>Exam II</cell>
+        <cell>16%</cell>
+        <cell>October 23 (Sections 3-5-3.7 and Chapter 5)</cell>
       </row>
       <row>
-        <cell>Test I</cell>
-        <cell>24%</cell>
-      </row>
-      <row>
-        <cell>Test II</cell>
-        <cell>24%</cell>
+        <cell>Exam III</cell>
+        <cell>16%</cell>
+        <cell>November 19(Sections 4.1, 4.3, and Chapters 6 and 7)</cell>
       </row>
       <row>
         <cell>Final Exam</cell>
-        <cell>24%</cell>
+        <cell>27%</cell>
+        <cell>December 09 (Comprehensive)</cell>
       </row>
     </tabular>
+
+    <paragraphs>
+      <title>Homework Assignments</title>
+      <p>
+        There will be regular homework assignments during the semester and will account for 20% of the semester grade. All homework assignments will be completed and submitted via the Lumen OHM. Usually, homework assignments will be available for a few days and are due at midnight. Students can start using OHM right away using the trial period, but to access homework after the trial period, students need to pay for course activation. <alert>To pay for course activation, follow the instructions provided in the link How to access course material-Lumen OHM (which you can find inside Modules)</alert>.
+
+At the end of the course, <alert>two of the lowest homework grades will be dropped</alert>. Late homework will not be accepted, except for very unusual circumstances. Completion of homework assignments in a timely fashion enhances your learning of the topics covered in lectures and prepares you for subsequent topics. However, mere completion of homework assignments does not warrant your success in the course.  You are expected to be persistently involved in the thought process for developing concepts and skills that you are expected to acquire for completing the course successfully. Problems on your tests will be like examples done in class and problems in your homework so working on the homework problems, coming to class, taking notes, and STUDYING YOUR NOTES are all essential if you want to do well in this course and get something out of it.
+      </p>
+      <p>
+      <alert>Notes:</alert>
+      <ol>
+        <li>
+          <p>
+            If you have any questions regarding the homework, reach out to me through email. I will not respond if you send me a message on the Lumen OHM.
+          </p>
+        </li>
+        <li>
+          <p>
+            Plan to spend about 3 hours outside of class on work related to the class for every hour of class time.
+          </p>
+        </li>
+      </ol>
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Class Participation</title>
+      <p>
+        Students are encouraged to attend class regularly and actively participate in group discussions while solving assigned problems. Class participation will account for 5% of your final grade. Two of the lowest class participation grades will be dropped at the end of the semester.
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Midterm Exams</title>
+      <p>
+        There will be a total of three midterm exams <alert>(Exam 1, Exam 2, and Exam 3)</alert>. Each midterm exam accounts for 16% of your final grade. Calculators will be allowed unless otherwise instructed. Exam dates will be announced at least one week in advance, but a tentative exam schedule is given in the Table above. (Apple watch and cell phones are not allowed during exams).
+      </p>
+      </paragraphs>
+      <paragraphs>
+      <title>Final Exam</title>
+      <p>
+        The final exam will be comprehensive.  It accounts for 27% of your final grade. If you do not take the final exam, you cannot pass the course.
+      </p>
+      <p>
+<alert>Note:</alert> In general, there are no makeup tests. If you miss a test and you do not have an excellent WRITTEN excuse (from a doctor, for example), you will get a zero on the test. If you have some problems with the scheduling of a test, email me several days BEFORE the test to discuss the matter. In the rare event that a makeup test is given, the makeup test may be more difficult than the original test.
+      </p>
+      
+    </paragraphs>
+      
+  </section>
+  <section xml:id="sec-grading">
+    <title>Grading and Late Work Policy</title>
     <p>
+      All work needed to arrive at the final answer must be shown on Exams. Student work must be clear, neat, and accurate, and make use of the appropriate mathematical symbols and syntax in order to receive full credit. Correct answers without justification earn little or no credit. Partial credit is given for incorrect answers only when substantial progress is made toward the right answer and correct logic is demonstrated.
+    </p>
+    <paragraphs>
+      <title>Grading Scale</title>
+      <tabular>
+      <row header="yes" bottom="minor">
+        <cell>Grade</cell>
+        <cell>Percent</cell>
+        <cell>Grade</cell>
+        <cell>Percent</cell>
+      </row>
+      <row>
+        <cell>A</cell>
+        <cell>93-100</cell>
+        <cell>C</cell>
+        <cell>73-76</cell>
+      </row>
+      <row>
+         <cell>A-</cell>
+        <cell>90-92</cell>
+        <cell>C-</cell>
+        <cell>70-72</cell>
+      </row>
+      <row>
+         <cell>B+</cell>
+        <cell>87-89</cell>
+        <cell>D+</cell>
+        <cell>67-69</cell>
+      </row>
+      <row>
+         <cell>B</cell>
+        <cell>83-86</cell>
+        <cell>D</cell>
+        <cell>63-66</cell>
+      </row>
+      <row>
+         <cell>B-</cell>
+        <cell>80-82</cell>
+        <cell>D-</cell>
+        <cell>60-62</cell>
+      </row>
+      <row>
+        <cell>C+</cell>
+        <cell>77-79</cell>
+        <cell>F</cell>
+        <cell>0-59</cell>
+      </row>
+    </tabular>
+       </paragraphs>
+   <!-- <p>
       Grades will be calculated to two decimal places. They will <em>not</em> be rounded up to the next integer. The lower cutoff for each letter grade is given in the table below. It is possible that these cutoffs will be adjusted at the end of the semester. However, if this is done, it will only be done in a way that benefits students by lowering the cutoff to earn a given letter grade.
     </p>
     <tabular>
@@ -430,189 +423,368 @@
         <cell>F</cell>
         <cell>0%</cell>
       </row>
+    </tabular>-->
+   <!-- <paragraphs>
+      <title>Assement Catogeries:</title>
+          <tabular>
+      <row header="yes" bottom="minor">
+        <cell>Requirements</cell>
+        <cell>Weight</cell>
+        <cell>Date</cell>
+      </row>
+      <row>
+        <cell>Lumen Homework</cell>
+        <cell>20%</cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>Class Participation</cell>
+        <cell>5%</cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>Exam 1</cell>
+        <cell>16%</cell>
+        <cell>September 25 (Chapters 2 and 3)</cell>
+      </row>
+      <row>
+        <cell>Exam II</cell>
+        <cell>16%</cell>
+        <cell>October 23 (Chapter 5)</cell>
+      </row>
+      <row>
+        <cell>Exam III</cell>
+        <cell>16%</cell>
+        <cell>December 4 (Chapters 6 and 7)</cell>
+      </row>
+      <row>
+        <cell>Final Exam</cell>
+        <cell>27%</cell>
+        <cell>December 09 (Comprehensive)</cell>
+      </row>
     </tabular>
+    </paragraphs>-->
     <paragraphs>
       <title>Incomplete Grades</title>
       <p>
-        Incomplete grades will be assigned only under extraordinary circumstances in accordance with L&#x26;S policy, which states as follows:
+        An "I" grade for an incomplete can be given only to students who have completed all of their course work with passing grades but, due to extenuating circumstances, are unable to complete the assignments required during the last two weeks of the semester. Written proof of extenuating circumstances must be verified with the instructor and the Department of Mathematics Chair before the last day of the semester. Extenuating circumstances include incapacitating illness, a death in the immediate family, extended hospitalization and other equivalent emergencies. “I” grades are not given for lack of completion of work due to procrastination or dissatisfaction with grades earned to date.
       </p>
-      <blockquote>
-        <p>
-          <q>An Incomplete (I) may be reported for a student who has been enrolled in a course with a passing grade until near the end of the semester/term and then, due to illness or some other unusual and substantiated cause beyond the student’s control, has been unable to take or complete the final examination (or to complete some limited amount of term work). An Incomplete is not given to a student who stays away from a final examination unless the student proves to the instructor that he or she was prevented from attending as indicated above. In the absence of such proof the grade reported will be an F. Even when a student can provide verifiable documentation, a student may still earn a grade of F if his/her work convinces the instructor that the student cannot successfully pass the course.</q>
-        </p>
-      </blockquote>
+    </paragraphs>
+    <paragraphs>
+      <title>Late Work Statement</title>
       <p>
-        If you feel an incomplete grade may be warranted, you must contact me <em>before</em> the end of the final examination period on Friday, May 9, 2025.
+        Late submissions will not be accepted in this course unless under highly exceptional circumstances. If you are unable to contact the instructor ahead of the due date under such circumstances, you must provide appropriate documentation, such as a doctor's note, to be permitted to submit an assignment late.
       </p>
     </paragraphs>
   </section>
+  <section xml:id="sec-upolicy">
+    <title>Required Course Syllabus Statements</title>
+<paragraphs>
+<title>Generative AI</title>
+    <p>
+      
+In this course, you can optimize your learning experience with the help of AI tools like <url href="https://www.wolframalpha.com/">Wolfram Alpha </url>,<url href="https://www.symbolab.com/"> Symbolab</url>,<url href="https://www.khanmigo.ai/" > Khanmingo</url>, and <url href="https://thetawise.ai/chat">thetawise</url>. With Wolfram Alpha, access computational knowledge to solve complex mathematical problems and generate step-by-step solutions. Symbolab provides interactive step-by-step solutions, aiding in understanding problem-solving processes. Khanmingo offers personalized practice exercises and video lessons tailored to your needs, while thetawise utilizes adaptive learning algorithms to provide personalized tutoring sessions and practice materials. These tools collectively support your problem-solving skills, and overall success in your math coursework.
+However, you should note that the material generated by these tools may be inaccurate, incomplete, or otherwise problematic. For example, an AI tool might incorrectly simplify a complex trigonometric identity, leading to a wrong solution. Additionally, relying too much on AI may inhibit your own independent thinking and creativity, potentially hindering your overall learning and understanding of mathematical concepts, so use it thoughtfully to enhance rather than replace your learning process.
+    </p>
+   </paragraphs>
+  </section>
+  <section xml:id="sec-importantdates">
+    <title>Important Dates</title>
+    <p>
+    <ol>
+      <li>
+        <p>
+          August 20: First day of classes.
+        </p>
+      </li>
+      <li>
+        <p>
+         September 1: Labor Day Holiday 
+        </p>
+      </li>
+      <li>
+        <p>
+         September 10: Last Day to Drop and Not Show on Transcript 
+        </p>
+      </li>
+      <li>
+        <p>
+          September 10: Last Day to Add Classes (with late fee and instructor approval)
+        </p>
+      </li>
+      <li>
+        <p>
+         October 16-18: Fall Break 
+        </p>
+      </li>
+      <li>
+        <p>
+         October 28: Last Day to Withdraw/Audit Classes 
+        </p>
+      </li>
+      <li>
+        <p>
+         November 24-29: Thanksgiving Holiday 
+        </p>
+      </li>
+      <li>
+        <p>
+        December 05: Classes End
+        </p>
+      </li>
+    </ol>
+    </p>
+  </section>
+  <section xml:id="sec-reqpolicy">
+    <title>Required University Syllabus Statements</title>
+    <paragraphs>
+      <title>Accommodations/Students with Disabilities</title>
+      <p>
+        Students needing accommodations due to a permanent or temporary disability, pregnancy or pregnancy-related conditions may contact UVU <url href="https://www.uvu.edu/accessibility-services/" >Accessibility Services</url> at accessibilityservices@uvu.edu or 801-863-8747.
+ 
+Accessibility Services is located on the Orem Campus in BA 110.
+ 
+Deaf/Hard of Hearing students requesting ASL interpreters or transcribers can contact Accessibility Services to set up accommodations. Deaf/Hard of Hearing services can be contacted at DHHservices@uvu.edu
+ 
+DHH is located on the Orem Campus in BA 112.
+
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Academic Integrity</title>
+      <p>
+At Utah Valley University, faculty and students operate in an atmosphere of mutual trust. Maintaining an atmosphere of academic integrity allows for free exchange of ideas and enables all members of the community to achieve their highest potential. Our goal is to foster an intellectual atmosphere that produces scholars of integrity and imaginative thought. In all academic work, the ideas and contributions of others must be appropriately acknowledged and UVU students are expected to produce their own original academic work. 
+
+      </p>
+      <p>
+        Faculty and students share the responsibility of ensuring the honesty and fairness of the intellectual environment at UVU. Students have a responsibility to promote academic integrity at the university by not participating in or facilitating others' participation in any act of academic dishonesty. As members of the academic community, students must become familiar with their <url href="https://policy.uvu.edu/getDisplayFile/5bedd0ef7b23736d542192e3">rights and responsibilities</url>. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, assessments, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Likewise, instructors are responsible to clearly state expectations and model best practices. 
+      </p>
+       <p>
+        Further information on what constitutes academic dishonesty is detailed in <url href="https://policy.uvu.edu/getDisplayFile/5bedd0ef7b23736d542192e3">UVU Policy 541:Student Code of Conduct </url>.
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Definitions and Examples</title>
+      <definition xml:id="def-">
+        <statement>
+          <p>
+            Definition: Academic integrity is a basic principle which requires that students take credit only for ideas and efforts that are their own. Cheating, plagiarism, fabrication, and other forms of academic dishonesty are often defined as the submission of materials in assignments, exams, or other academic work that is based on sources that are prohibited by the faculty member or in ways that do not properly cite the source of a student's ideas and content. 
+          </p>
+        </statement>
+      </definition>
+    </paragraphs>
+    <paragraphs>
+      <title>Equity and Title IX</title>
+      <p>
+        Utah Valley University does not discriminate on the basis of race, color, religion, national origin, sex, sexual orientation, gender identity, gender expression, age (40 and over), disability, veteran status, pregnancy, childbirth, or pregnancy-related conditions, citizenship, genetic information, or other basis protected by applicable law, including Title IX and 34 C.F.R. Part 106, in employment, treatment, admission, access to educational programs and activities, or other University benefits or services. Inquiries about nondiscrimination at UVU may be directed to the U.S. Department of Education’s Office for Civil Rights or UVU’s Title IX Coordinator at 801-863-7999-TitleIX@uvu.edu – 800 W University Pkwy, Orem, 84058, Suite BA 203. 
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Religious Accomodation</title>
+      <p>
+        UVU values and acknowledges the array of worldviews, faiths, and religions represented in our student body, and as such provides supportive accommodations for students. Religious belief or conscience broadly includes religious, non-religious, theistic, or non-theistic moral or ethical beliefs as well as participation in religious holidays, observances, or activities. Accommodations may include scheduling or due-date modifications or make-up assignments for missed class work.
+To seek a religious accommodation, a student must provide written notice to the instructor and the Director of Accessibility Services at accessibilityservices@uvu.edu. If the accommodation relates to a scheduling conflict, the notice should include the date, time, and brief description of the difficulty posed by the conflict. Such requests should be made as soon as the student is aware of the prospective scheduling conflict.
+
+While religious expression is welcome throughout campus, UVU also has a specially dedicated space for meditation, prayer, reflection, or other forms of religious expression.
+      </p>
+    </paragraphs>
+    
+    
+  </section>
   <section xml:id="sec-schedule">
-    <title>Tentative Schedule of Topics</title>
+    <title>Tentative Course Schedule</title>
     <p>
       <dl>
         <li>
           <title>Week 1</title>
           <p>
-            Integer Properties; Logic
+            Course Introduction and Policies 
+          </p>
+          <p>
+            Sections 1.1-1.7: Review of Integration
           </p>
         </li>
         <li>
           <title>Week 2</title>
           <p>
-            Logic
+            Section 3.1: Integration by Parts
           </p>
+          <p>
+            Section 3.2: Trigonometric Integrals
+           </p> 
         </li>
         <li>
           <title>Week 3</title>
           <p>
-            Proofs
+            Section 3.3: Trigonometric Substitution
           </p>
+          <p>
+            Section 3.4: Partial Fractions
+           </p> 
         </li>        
         <li>
           <title>Week 4</title>
           <p>
-            Sets; Functions
+            Section 2.1: Areas between Curves
           </p>
+          <p>
+            Section 2.2: Determining Volumes by Slicing
+           </p> 
         </li>        
         <li>
           <title>Week 5</title>
           <p>
-            Functions; Computation
+            Section 2.3: Volumes of Revolution: Cylindrical Shells
           </p>
+          <p>
+            Section 2.4: Arc Length of a Curve and Surface Area
+           </p> 
         </li>        
         <li>
           <title>Week 6</title>
           <p>
-            Computation and <alert>Test I on Wednesday, February 26 (7:30<ndash/>9pm)</alert>
+            Section 2.5: Physical Applications
+          </p>
+          <p>
+            Section 2.6: Moments and Centers of Mass
+           </p> 
+           <p>
+            <alert>Practice Exam1 due by September 24, 2025 (12:00pm)</alert>
+          </p>
+          <p>
+            <alert>Exam 1, September 25 </alert>
           </p>
         </li>        
         <li>
           <title>Week 7</title>
           <p>
-            Induction
+            Section 3.5: Other Strategies for Integration
           </p>
+          <p>
+            Section 3.6: Numerical Integration
+           </p> 
+           <p>
+            Section 3.7: Improper Integrals
+           </p> 
         </li>        
         <li>
           <title>Week 8</title>
-          <p>
-            Recursion
+         <p>
+            Section 5.1: Sequences
           </p>
+          <p>
+            Section 5.2: Infinite Series
+           </p> 
+           <p>
+            Section 5.3: Improper Integrals
+           </p> 
         </li>        
         <li>
           <title>Week 9</title>
-          <p>
-            Recursion; Recurrence Relations
-          </p>
+           <p>
+            Section 5.4: Comparison Tests
+           </p> 
+           <p>
+            Section 5.5: Alternating Series
+           </p> 
         </li>
         <li>
-          <title>Spring Break</title>
+          <title>fall Break</title>
           <p>
-            March 22<ndash/>30, 2025
+            October 16<ndash/>18, 2025
           </p>
         </li>        
         <li>
           <title>Week 10</title>
           <p>
-            Relations and digraphs
+            Section 5.6: Ratio and Root Tests
+          </p>
+
+           <p>
+            <alert>Practice Exam2 due by October 22, 2025 (12:00pm)</alert>
+          </p>
+          <p>
+            <alert>Exam 2, October 23, 2025 </alert>
           </p>
         </li>        
         <li>
           <title>Week 11</title>
-          <p>
-            Couting and <alert>Test II on Wednesday, April 9 (7:30<ndash/>9pm)</alert>
+           <p>
+            Section 6.1: Power Series and Functions
           </p>
+          <p>
+            Section 6.2: Properties of Power Series
+           </p> 
+           <p>
+            Section 6.3: Taylor and Maclaurin Series
+           </p> 
         </li>        
         <li>
           <title>Week 12</title>
-          <p>
-            Counting; Graphs
+           <p>
+            Section 6.4: Working with Taylor Series
           </p>
+          <p>
+            Section 7.1: Parametric Equations
+           </p> 
+           <p>
+            Section 7.2: Calculus of Parametric Curves
+           </p> 
         </li>        
         <li>
           <title>Week 13</title>
-          <p>
-            Graphs
+           <p>
+            Section 7.3: Polar Coordinates
           </p>
+          <p>
+            Section 7.4: Area and Arc Length in Polar Coordinates
+           </p> 
+           <p>
+            Section 4.1: Basics of Differential Equations
+           </p> 
         </li>        
         <li>
           <title>Week 14</title>
           <p>
-            Trees
+            Section 4.3: Separable Equations
           </p>
-        </li>        
+
+           <p>
+            <alert>Practice Exam3 due by November 18, 2025 (12:00pm)</alert>
+          </p>
+          <p>
+            <alert>Exam 3, November 19, 2025 </alert>
+          </p>
+          <p>
+            Section 4.5: First-order Linear Equations
+          </p>
+        </li> 
+     
         <li>
+          <title>Week 15</title>
+          <p>
+            Section 4.5: First-order Linear Equations (continued)
+          </p>
+          <p>
+            Review for Final Exam
+          </p>
+        </li>  
+         <li>
           <title>Final Exam</title>
           <p>
-            <alert>Tuesday, May 6 (5:05<ndash/>7:05pm)</alert>
+            <alert>Practice Final Exam due by December 6, 2025 (11:59pm)</alert>
           </p>
-        </li>        
+          <p>
+            <alert>Final Exam (Comprehensive), December 8, 2025 (11:00am-12:50pm)</alert>
+          </p>
+        </li>       
       </dl>
     </p>
-    <p>
-      Note that class will meet as scheduled during the weeks of the two tests in addition to meeting on Wednesday evening for the test.
-    </p>
-  </section>
-  <section xml:id="sec-inst-statements">
-    <title>Institutional Syllabus Statements</title>
-    <p>
-      The following statements from the institution all apply in this course:
-      <ul>
-        <li>
-          <p>
-            Academic Calendar &#x26; Religious Observances
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Academic Integrity
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Statement Accommodations for Students with Disabilities
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Course Evaluations
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Diversity &#x26; Inclusion Statement
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Mental Health and Well-Being Statement
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Privacy of Student Records &#x26; the Use of Audio Recorded Lectures Statement
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Students<rsq/> Rules, Rights &#x26; Responsibilities, and
-          </p>
-        </li>
-
-        <li>
-          <p>
-            Teaching &#x26; Learning Data Transparency Statement
-          </p>
-        </li>
-      </ul>
-      The full text of all of these statements can be found in <url href="https://guide.wisc.edu/courses/#syllabustext" visual="guide.wisc.edu/courses/#syllabustext">the Guide</url>.
-    </p>
+    <paragraphs>
+      <title>General Disclaimer</title>
+      <p>   
+I reserve the right to modify the information, schedule, assignments, deadlines, and course policies in this syllabus when necessary. I will announce such changes in a timely manner during regularly scheduled lecture periods.      </p>
+    </paragraphs>
   </section>
   </article>
 </pretext>
